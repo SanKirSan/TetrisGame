@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Engine\\video",
+    "\\Game",
+    "\\Game\\pong",
+    "\\Game\\techdemo",
+    "\\Game\\tetris",
+    "\\out\\build"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
